@@ -15,7 +15,9 @@ export default function Home() {
       <Unauthenticated>
         <SignInButton />
       </Unauthenticated>
+      <script type="text/javascript" src="https://api.useberry.com/integrations/liveUrl/scripts/useberryScript.js"></script>
     </>
+    
   )
 }
 
